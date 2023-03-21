@@ -6,4 +6,4 @@ The dataset used for this analysis is COVID-19 Deaths data which taken from [Our
 
 The tools for data analysis used in this project is Microsoft SQL Server Management Studio (SMSS) and to visualize the data is Tableau.
 
-The following link will direct you to the [SQL file](https://github.com/eunikehp/COVIDanalysis/blob/main/SQLQueryCovid.sql) and the dashboard.
+The following link will direct you to the [SQL file](https://github.com/eunikehp/COVIDanalysis/blob/main/SQLQueryCovid.sql) and the dashboard on [Tableau](https://public.tableau.com/app/profile/eunikepardede/viz/shared/23GRK28CR).
